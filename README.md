@@ -10,7 +10,7 @@ By solving the puzzle, you can move several blocks in a column and a row in one 
 
 The engine code is very flexible for modifications, has many settings and can be integrated into any web page or web app.
 
-Editor: 
+Editor: https://shamim1911.github.io/the_puzzeler/
 
 # Structure
 
